@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["client","Hyper client bindings for unix domain sockets"],["server","Hyper server bindings for unix domain sockets"]],"struct":[["Uri","A type which implements `Into` for hyper's  `hyper::Uri` type targetting unix domain sockets."]]});
